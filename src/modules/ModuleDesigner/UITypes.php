@@ -20,6 +20,7 @@ array('num'=>2, 	'label'=>'Text input Mandatory',		'dbtype'=>'VARCHAR(128)',	'da
 array('num'=>3,		'label'=>'Auto increment',				'dbtype'=>'INT(11)',		'datatype'=>'I',	'mandatory'=>false,		'two_columns'=>false),
 array('num'=>4,		'label'=>'Auto number',					'dbtype'=>'VARCHAR(32)',	'datatype'=>'V',	'mandatory'=>false,		'two_columns'=>false),
 array('num'=>5, 	'label'=>'Date',						'dbtype'=>'DATE',			'datatype'=>'D',	'mandatory'=>false,		'two_columns'=>false),
+array('num'=>14,	'label'=>'Time',				        'dbtype'=>'TIME',       	'datatype'=>'T',	'mandatory'=>false,		'two_columns'=>false),
 array('num'=>6, 	'label'=>'Date time',					'dbtype'=>'TIMESTAMP NULL',	'datatype'=>'DT',	'mandatory'=>false,		'two_columns'=>false),
 array('num'=>7,		'label'=>'Numeric input',				'dbtype'=>'INT(11)',		'datatype'=>'I',	'mandatory'=>false,		'two_columns'=>false),
 array('num'=>8,		'label'=>'Json array',					'dbtype'=>'VARCHAR(512)',	'datatype'=>'V',	'mandatory'=>false,		'two_columns'=>false),
