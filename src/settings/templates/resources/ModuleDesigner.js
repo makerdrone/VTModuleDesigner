@@ -8,6 +8,7 @@ var modGeneratorUIType =
 		{num:3,		label:'Auto increment',				dbtype:'INT(11)',		datatype:'I',	mandatory:false,	two_columns:false},
 		{num:4,		label:'Auto number',				dbtype:'VARCHAR(32)',	datatype:'V',	mandatory:false,	two_columns:false},
 		{num:5, 	label:'Date',						dbtype:'DATE',			datatype:'D',	mandatory:false,	two_columns:false},
+        {num:14,	label:'Time',				        dbtype:'TIME',       	datatype:'T',	mandatory:false,	two_columns:false},
 		{num:6, 	label:'Date time',					dbtype:'TIMESTAMP NULL',datatype:'DT',	mandatory:false,	two_columns:false},
 		{num:7,		label:'Numeric input',				dbtype:'INT(11)',		datatype:'I',	mandatory:false,	two_columns:false},
 		{num:8,		label:'Json array',					dbtype:'VARCHAR(512)',	datatype:'V',	mandatory:false,	two_columns:false},
